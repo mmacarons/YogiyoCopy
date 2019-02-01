@@ -2,4 +2,15 @@
     <string name="app_name">YogiyoCopy</string>
     <string name="address">구운동 942-1</string>
     <string name="all">전체</string>
+    <string name="one_person">1인분 주문</string>
+    <string name="chicken">치킨</string>
+    <string name="chinese">중국집</string>
+    <string name="pizza">피자/양식</string>
+    <string name="korean">한식</string>
+    <string name="bunsik">분식</string>
+    <string name="cafe">카페/디저트</string>
+    <string name="pigfeet">족발/보쌈</string>
+    <string name="japanese">일식/돈까스</string>
+    <string name="yasik">야식</string>
+    <string name="franchise">프랜차이즈</string>
 </resources>
